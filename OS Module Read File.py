@@ -6,3 +6,4 @@ print(file.tell())
 words = file.readlines()
 print(file.tell())
 print(words)
+
